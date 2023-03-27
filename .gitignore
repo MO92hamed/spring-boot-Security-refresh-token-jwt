@@ -2,7 +2,7 @@ HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
-!upload-dir/**
+!**/upload-dir/**
 README.md
 
 ### STS ###
